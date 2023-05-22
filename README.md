@@ -52,9 +52,9 @@ Para rodar localmente o web client Vite:
 - Utilize o comando: "npm run dev" e aproveite! :D
 ```
 
-### Web
+### Mobile
 
-Para rodar localmente o web client Vite:
+Para rodar localmente o mobile:
 ```sh
 - Dê um pull neste projeto;
 - Instale todas as dependências com "expo start";
